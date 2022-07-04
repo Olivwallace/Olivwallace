@@ -6,8 +6,8 @@
 ------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/Olivwallace">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Olivwallace&show_icons=true&theme=dark&icon_color=00bffff&bg_color=90,10111e,00ffff&title_color=00bfff&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivwallace&layout=compact&title_color=00bfff&langs_count=7&theme=dark&bg_color=90,10111e,00ffff"/>
+  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=Olivwallace&show_icons=true&theme=dark&icon_color=00bffff&bg_color=90,10111e,00ffff&title_color=00bfff&include_all_commits=true&count_private=true"/>
+  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivwallace&layout=compact&title_color=00bfff&langs_count=7&theme=dark&bg_color=90,10111e,00ffff"/>
 </div>
 
 ------------------------------------------------------------------
