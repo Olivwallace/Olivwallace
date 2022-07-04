@@ -4,10 +4,10 @@
 - 👨🏽‍💻Graduando em Ciência da Computação - Puc Minas (2025/2°)
 - 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
 ------------------------------------------------------------------
-<div align="center">
+<div align="inline">
   <a href="https://github.com/Olivwallace">
-  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=Olivwallace&show_icons=true&theme=dark&icon_color=00bffff&bg_color=90,10111e,00ffff&title_color=00bfff&include_all_commits=true&count_private=true"/>
-  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivwallace&layout=compact&title_color=00bfff&langs_count=7&theme=dark&bg_color=90,10111e,00ffff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Olivwallace&show_icons=true&theme=dark&icon_color=00bffff&bg_color=90,10111e,00ffff&title_color=00bfff&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivwallace&layout=compact&title_color=00bfff&langs_count=7&theme=dark&bg_color=90,10111e,00ffff"/>
 </div>
 
 ------------------------------------------------------------------
