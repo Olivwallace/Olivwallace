@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------
 
-<div style="display: inline_block"><br>
+<div align = "center" style="display: inline_block"><br>
   <img aling= "center" alt = "WallacePython" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img aling= "center" alt = "WallaceC" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img aling= "center" alt = "WallaceHTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
