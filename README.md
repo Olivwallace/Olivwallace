@@ -16,8 +16,7 @@
   <img aling= "center" alt = "WallacePython" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img aling= "center" alt = "WallaceC" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img aling= "center" alt = "WallaceHTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img aling= "center" alt = "WallaceCSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img aling= "center" alt = "WallaceJAVA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />       
+  <img aling= "center" alt = "WallaceCSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />       
 </div>
 
 ------------------------------------------------------------------
