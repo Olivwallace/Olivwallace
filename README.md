@@ -1,7 +1,7 @@
 ## Olá, eu sou o Wallace!
 ------------------------------------------------------------------
 - Atualmente...
-- 👨🏽‍💻Graduando em Ciência da Computação - Puc Minas (2025/2°)
+- 👨🏽‍💻Graduando em Ciência da Computação - Puc Minas (2026/1°)
 - 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
 ------------------------------------------------------------------
 <div align="center">
