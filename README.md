@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação e Desenvolvimento de Sistemas.
 Um curioso pelo universo e computação, além de apaixonado por filmes e séries de ficção ciêntifica, um Galifreyano (Doctor Who) de coração que acredita verdadeiramente na capacidade que a tecnologia tem em revolucionar a vida das pessoas e ajudar a espécie humana a conquistar as estrelas. Busco diariamente compreender ainda mais esse potencial e não vejo a hora de poder gritar "Allons-y" e contribuir com minha parte nessa jornada.
 
-- 👨🏽‍💻Graduando em Ciência da Computação - Puc Minas (2026/1°)
+- 👨🏽‍💻Graduando em Ciência da Computação - PUC Minas (2026/1°)
 - 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
 ------------------------------------------------------------------
 <div align="center">
