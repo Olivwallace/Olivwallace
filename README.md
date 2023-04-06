@@ -1,7 +1,7 @@
 ## Olá, eu sou o Wallace!
 ------------------------------------------------------------------
-Estudante de Ciência da Computação e Desenvolvimento de Sistemas.
-Um curioso pelo universo e computação, além de apaixonado por filmes e séries de ficção ciêntifica, um Galifreyano (Doctor Who) de coração que acredita verdadeiramente na capacidade que a tecnologia tem em revolucionar a vida das pessoas e ajudar a espécie humana a conquistar as estrelas. Busco diariamente compreender ainda mais esse potencial e não vejo a hora de poder gritar "Allons-y" e contribuir com minha parte nessa jornada.
+Estudante de Ciência da Computação e Desenvolvimento de Sistemas Mobile.
+Um curioso pelo universo e computação, que acredita verdadeiramente na capacidade da tecnologia em nos levar a lugares nunca antes imaginados, desde avanços na sociedade até a possível conquista das estrelas, por isso busco constantemente aprender e explorar novas tecnologias para expandir meus conhecimentos, afim de contribuir nessa jornada.
 
 - 👨🏽‍💻Graduando em Ciência da Computação - PUC Minas (2026/1°)
 - 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
