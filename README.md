@@ -1,7 +1,7 @@
 ## Olá, eu sou o Wallace!
 ------------------------------------------------------------------
 Estudante de Ciência da Computação e Desenvolvimento de Sistemas Mobile.
-Um curioso pelo universo e computação, que acredita verdadeiramente na capacidade da tecnologia em nos levar a lugares nunca antes imaginados, desde avanços na sociedade até a possível conquista das estrelas, por isso busco constantemente aprender e explorar novas tecnologias para expandir meus conhecimentos, afim de contribuir nessa jornada.
+Um curioso pelo universo e computação, que acredita verdadeiramente na capacidade que a tecnologia tem em nos levar a lugares nunca antes imaginados, desde avanços na sociedade até a possível conquista das estrelas, por isso busco constantemente aprender e explorar novas tecnologias para expandir meus conhecimentos, afim de contribuir nessa jornada.
 
 - 👨🏽‍💻Graduando em Ciência da Computação - PUC Minas (2026/1°)
 - 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
