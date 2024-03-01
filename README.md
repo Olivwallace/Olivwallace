@@ -1,10 +1,11 @@
 ## Olá, eu sou o Wallace!
 ------------------------------------------------------------------
-Estudante de Ciência da Computação e Desenvolvimento de Sistemas Mobile.
-Um curioso pelo universo e computação, que acredita verdadeiramente na capacidade que a tecnologia tem em nos levar a lugares nunca antes imaginados, desde avanços na sociedade até a possível conquista das estrelas, por isso busco constantemente aprender e explorar novas tecnologias para expandir meus conhecimentos, afim de contribuir nessa jornada.
+Desenvolvedor iOS e Estudante de Ciência da Computação.
+Um curioso pelo universo e computação, que acredita verdadeiramente na capacidade que a tecnologia tem em nos levar a lugares nunca antes imaginados, desde avanços na sociedade até a possível conquista das estrelas, que busca a cada dia um passo para contribuir nessa jornada.
 
-- 👨🏽‍💻Graduando em Ciência da Computação - PUC Minas (2026/1°)
-- 📱Tecnico em Desenvolvimento de Sistemas Mobile - UFMG (2023/2°)
+- 👨🏽‍💻 Desenvolvedor iOS - Leal Apps
+- 💻 Graduando em Ciência da Computação - PUC Minas (2026/1°)
+- 📱 Tecnico em Desenvolvimento de Sistemas Mobile - UFMG
 ------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/Olivwallace">
@@ -15,8 +16,10 @@ Um curioso pelo universo e computação, que acredita verdadeiramente na capacid
 ------------------------------------------------------------------
 
 <div align = "center" style="display: inline_block"><br>
-  <img aling= "center" alt = "WallaceC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img aling = "center" alt = "WallaceJava" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ------------------------------------------------------------------
