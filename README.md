@@ -23,6 +23,9 @@ Um curioso pelo universo e computação, que acredita verdadeiramente na capacid
 
 ------------------------------------------------------------------
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4cb764e6-7449-4779-a70c-6ab938de2ad2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <!--
 **Olivwallace/Olivwallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
